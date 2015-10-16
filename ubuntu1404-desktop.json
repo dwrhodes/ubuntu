@@ -135,6 +135,7 @@
         "script/virtualbox.sh",
         "script/cmtool.sh",
         "script/motd.sh",
+        "script/meteor-desktop.sh",
         "script/cleanup.sh"
       ],
       "type": "shell"

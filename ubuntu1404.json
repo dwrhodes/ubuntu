@@ -133,6 +133,7 @@
         "script/virtualbox.sh",
         "script/cmtool.sh",
         "script/motd.sh",
+        "script/meteor-server.sh",
         "script/minimize.sh",
         "script/cleanup.sh"
       ],
